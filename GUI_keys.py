@@ -3,7 +3,6 @@ import tkinter as tk
 from tkinter import ttk
 import multiprocessing as mp
 
-# meow
 def button_1():
     global var1
     if var1.get() == 1:
